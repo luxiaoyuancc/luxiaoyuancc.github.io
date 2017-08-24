@@ -11716,7 +11716,7 @@ body {
 
 .page4 .contain h4 {
     margin-bottom: 4px;
-    margin-left: -100px;
+    margin-left: -120px;
 }
 
 .page4 .contain .p4subtitle {
@@ -11726,7 +11726,7 @@ body {
 }
 
 .page4 .contain .collection {
-    max-width: 940px;
+    max-width: 800px;
     margin: 50px auto;
     border: 0;
 }
